@@ -8,32 +8,41 @@ The Banking System Project is a front-end website that provides a simulated expe
 
 Clone the repository to your local machine.
 Open the index.html file in a web browser to access the website.
-Usage:
 
-Upon opening the website, you will be presented with the homepage, providing an overview of the banking system.
-Explore the different sections of the website, such as account management, balance inquiries, and transaction history.
-Interact with the provided forms and buttons to simulate banking operations.
-Refer to the documentations for more detailed instructions and information about each feature.
+4- Usage:
+- Upon opening the website, you will be presented with the homepage, providing an overview of the banking system.
+- Explore the different sections of the website, such as account management, balance inquiries, and transaction history.
+- Interact with the provided forms and buttons to simulate banking operations.
+- Refer to the documentations for more detailed instructions and information about each feature.
 
-4- Documentation:
-This project includes comprehensive documentations related to the banking system, covering the following aspects:
+5- Documentation:
+The Banking System Project includes the following documentation:
+Use Case Diagram: Provides an overview of the system's functionalities and interactions between actors and use cases.
+Use Case Description: Offers detailed descriptions of each use case, including the steps and interactions involved.
+Software Requirements Specification (SRS): Outlines the functional and non-functional requirements of the banking system.
+Class Diagram: Illustrates the system's class structure, relationships, and attributes, providing a high-level view of the object-oriented design.
+Test Case Matrix: Documents the test cases created to verify the system's functionality, covering various scenarios and edge cases.
+Activity Diagram: Presents the flow of activities and actions within the banking system, depicting the sequence of operations.
+State Diagram: Visualizes the different states and state transitions for specific objects or processes within the system.
+Interface Requirement Document (IRD): Describes the system's user interface specifications, including layouts, navigation, and input/output requirements.
 
-5User Manual: Provides step-by-step instructions on how to navigate the website, perform various banking operations, and understand the simulated results.
-Design Guidelines: Outlines the design principles and considerations for the website, including the user interface layout, color scheme, and typography.
-Technical Documentation: Provides an overview of the technologies used, folder structure, and any additional information required for development or customization.
-Technologies Used:
-
+6- Technologies Used:
 Front-end: HTML, CSS, JavaScript
-Contributors:
 
-John Doe: Front-end Development, UI/UX Design
-Jane Smith: Documentation, Project Management
-License:
+7- Contributors:
+Michael M. Demissie
+Naman Singh
+
+8- License:
 This project is currently not licensed.
 
-Additional Sections:
 
-Known Issues: List any known issues or limitations of the banking system website.
-Future Enhancements: Outline potential future features or improvements that could be added to the website.
-Troubleshooting: Provide troubleshooting tips for common issues that users might encounter.
-Reme
+9- Future Enhancements: 
+
+Backend Integration: Incorporate a backend infrastructure and database to enable user registration, login, and secure storage of user information.
+Expanded Account Management: Enhance account management features, including new account opening, loan applications, beneficiary management, and automatic payments.
+Transaction Security and Notifications: Implement two-factor authentication, transaction notifications, and additional security measures for increased user protection.
+Improved User Interface and Experience: Enhance the user interface with responsive design, streamlined navigation, and improved accessibility for a seamless banking experience.
+Advanced Reporting and Analytics: Develop advanced reporting and analytics capabilities, enabling users to generate custom reports and visualize financial data.
+We are committed to continuously improving the Banking System Project to provide a comprehensive and user-friendly banking experience.
+
